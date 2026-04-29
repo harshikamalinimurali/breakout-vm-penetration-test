@@ -1,4 +1,4 @@
-# breakout-vm-penetration-testbreakout-vm-penetration-test
+# breakout-vm-penetration-test
 # Penetration Test Report: Breakout VM
 
 ## 1. Executive Summary
